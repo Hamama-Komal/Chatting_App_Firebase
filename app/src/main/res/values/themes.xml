@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ChatApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/purple5</item>
+        <item name="colorPrimaryDark">@color/purple5</item>
+        <item name="colorAccent">@color/white</item>
+
+    </style>
+
+
+</resources>
